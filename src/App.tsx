@@ -764,7 +764,7 @@ function App() {
                       <span>¡OBTÉN TU TRANSFORMACIÓN!</span>
                       <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
                     </span>
-                  </button>
+                  </button>https://pay.kiwify.com/zdRY0u2
 
                   {/* Trust Seals - Mobile */}
                   <div className="bg-white/5 rounded-xl p-3 border border-white/10">
@@ -870,7 +870,7 @@ function App() {
                         <span>¡OBTÉN TU TRANSFORMACIÓN!</span>
                         <ArrowRight className="w-6 h-6 group-hover:translate-x-1 transition-transform" />
                       </span>
-                    </button>
+                    </button>https://pay.kiwify.com/zdRY0u2
 
                     {/* Trust Seals - Desktop */}
                     <div className="bg-white/5 rounded-2xl p-4 border border-white/10">
