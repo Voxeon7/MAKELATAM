@@ -761,7 +761,7 @@ function App() {
                     <div className="absolute inset-0 bg-gradient-to-r from-yellow-300/20 to-amber-400/20 animate-pulse"></div>
                     <span className="relative flex items-center justify-center space-x-2">
                       <Check className="w-5 h-5" />
-                      <span>¡OBTÉN TU TRANSFORMACIÓN!</span>https://pay.kiwify.com/zdRY0u2
+                      <span>¡OBTÉN TU TRANSFORMACIÓN!</span>
                       <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
                     </span>
                   </button>
@@ -867,7 +867,7 @@ function App() {
                       <div className="absolute inset-0 bg-gradient-to-r from-yellow-300/20 to-amber-400/20 animate-pulse"></div>
                       <span className="relative flex items-center justify-center space-x-3">
                         <Check className="w-6 h-6" />
-                        <span>¡OBTÉN TU TRANSFORMACIÓN!</span>https://pay.kiwify.com/zdRY0u2
+                        <span>¡OBTÉN TU TRANSFORMACIÓN!</span>
                         <ArrowRight className="w-6 h-6 group-hover:translate-x-1 transition-transform" />
                       </span>
                     </button>
